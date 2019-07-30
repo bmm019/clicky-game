@@ -3,7 +3,7 @@ Clicky Game is a simple memory game using React. This application is split into 
 <br />
 
 # Demo 
-[View Demo](https://stormy-beyond-78297.herokuapp.com/)
+[View Demo](https://bmm019.github.io/clicky-game/)
 <br />
 
 # Technology Used
